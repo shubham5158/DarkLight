@@ -19,6 +19,7 @@ html {
   
   #white {
     background: white;
+    border: solid black 2px;
   }
   #blue {
     background: blue;
@@ -29,5 +30,10 @@ html {
 
   #violet{
     background: violet;
+  }
+
+  #black{
+    background: rgb(8, 8, 8);
+    border: solid white 3px;
   }
   
